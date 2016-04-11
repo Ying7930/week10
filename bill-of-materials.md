@@ -1,19 +1,17 @@
 #Bill of Materials
 
 - [x] Wheels
-- get from bycycle shop
+ - get from bycycle shop
 - [ ] LEDs- at least 39
-- From Hybrid Lab
+ - From Hybrid Lab
 - [ ] protoboards
-- From Hybrid Lab or buy online or buy from RadioShack store
-
+ - From Hybrid Lab or buy online or buy from RadioShack store
 - [ ] 2.2K 5% 1/4W Resistor
 - [ ] 47ohm 5% 1/4W Resistor
-- From Hybrid Lab
+ - From Hybrid Lab
 - [ ] Wires
-- From Hybrid Lab
+ - From Hybrid Lab
 - [ ] Zener Diode
-
 - [ ] ceramic capacitor
 - [ ] USB Jack
 - [ ] switches
@@ -23,4 +21,4 @@
 - [ ] Male Header
 - [ ] 100uF/6V Capacitor
 - [ ] Soldering iron
-- From Hybrid Lab
+ - From Hybrid Lab
