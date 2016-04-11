@@ -11,6 +11,7 @@
  - From Hybrid Lab
 - [ ] Wires
  - From Hybrid Lab
+- [ ] ATmega8 or ATmega168
 - [ ] Zener Diode
 - [ ] ceramic capacitor
 - [ ] USB Jack
